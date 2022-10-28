@@ -1,7 +1,7 @@
 <h1 align=center> Calculadora </h1>
 <br>
 
-<p align=center> Realizei esse projeto para consolidar conhecimentos em JavaScript, HTML e CSS Grid. <a href="https://raquelferreira1.github.io/Calculadora-JS-e-CSS-Display-Grid/"</a>Veja aqui como ficou :point_left: </p>
+<p align=center> Realizei esse projeto para consolidar conhecimentos em JavaScript, HTML e CSS Display Grid. <a href="https://raquelferreira1.github.io/Calculadora-JS-e-CSS-Display-Grid/"</a>Veja aqui como ficou :point_left: </p>
 
 <h2> :hammer_and_wrench: Tecnologias utilizadas: </h2>
 
