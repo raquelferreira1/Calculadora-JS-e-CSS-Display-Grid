@@ -1,4 +1,4 @@
-<h1 align=center> Calculadora </h1>
+<h1 align=center> CALCULADORA </h1>
 
 <p align=center> Nesse projeto pude consolidar conhecimentos em JavaScript, HTML e CSS Display Grid. <a href="https://raquelferreira1.github.io/Calculadora-JS-e-CSS-Display-Grid/"</a> Veja aqui como ficou :point_left: </p>
 
